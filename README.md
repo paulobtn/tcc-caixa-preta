@@ -13,7 +13,7 @@ em três dimensões. Também criei rotinas de self-test e calibração dos senso
 
 Para mais informações, consulte monografia-paulo.pdf
 
-** Organização **
+**Organização**
 
 ```
 * CXP/                 -   arquivos do código embarcado
@@ -21,7 +21,7 @@ Para mais informações, consulte monografia-paulo.pdf
 * monografia-paulo.pdf -   Monografia
 ```
 
-** Bibliotecas externas **
+**Bibliotecas externas**
 
 * MATLAB/filtros/MadgwickAHRS 
 * MATLAB/filtros/quaternion_library são bibliotecas

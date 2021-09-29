@@ -24,9 +24,9 @@ Para mais informações, consulte monografia-paulo.pdf
 **Bibliotecas externas**
 
 * MATLAB/filtros/MadgwickAHRS 
-* MATLAB/filtros/quaternion_library são bibliotecas
+* MATLAB/filtros/quaternion_library
 
-Desenvolvidas por [Sebastian Madgwick](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/).
+são bibliotecas Desenvolvidas por [Sebastian Madgwick](https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/).
 A primeira é para aplicar o [filtro de Madgwick](https://www.x-io.co.uk/res/doc/madgwick_internal_report.pdf),
 a segunda é para manipular Quaternions no matlab.
 

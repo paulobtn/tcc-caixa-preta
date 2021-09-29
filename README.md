@@ -3,7 +3,7 @@
 Este é meu trabalho de conclusão do curso de Engenharia da Computação pela
 Universidade de Brasília. Orientado por Ricardo Zelenovsky.
 
-Consiste num sistema embarcado que coleta dados de movimentações de um veículo,
+Consiste num sistema embarcado que coleta dados de movimentação de um veículo,
 como uma caixa preta, para caracterizar acidentes.
 
 Minha maior contribuição foi ter adicionado o magnetômetro, além dos sensores
